@@ -1,0 +1,13 @@
+# Byte-kompilierte / optimierte / DLL-Dateien
+__pycache__/          # Ordner mit automatisch generierten Python-Bytecode-Dateien
+*.py[cod]             # Python-Bytecode-Dateien (.pyc, .pyo, .pyd)
+*$py.class             # Bytecode-Dateien von Jython/Python-to-Java
+
+# Jupyter Notebook-Checkpoints
+*.ipynb               # Temporäre Checkpoint-Dateien von Jupyter Notebooks
+
+# Umgebungsvariablen
+.env                  # Datei mit sensiblen Umgebungsvariablen (API-Keys etc.)
+
+# aufgabe
+*.docx
